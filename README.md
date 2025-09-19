@@ -13,7 +13,7 @@ A classic Tic Tac Toe game built from scratch using **HTML**, **CSS**, and **pur
 - ✅ Win detection (horizontal, vertical, diagonal)  
 - 🤝 Draw / Tie detection  
 - 🔄 Restart / Reset game functionality  
-- 🎯 Visual feedback: show whose turn it is, highlight winning line  
+- 🎯 Visual feedback: show whose turn it is.  
 
 ---
 
