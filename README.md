@@ -1,4 +1,4 @@
-🔗 👉 **[🚀 LIVE DEMO — Click to Open Calculator](tic-tac-toe-vanilla-js-gagan.netlify.app)** 👈
+🔗 👉 **[🚀 LIVE DEMO — Click to Open Calculator](https://tic-tac-toe-vanilla-js-gagan.netlify.app)** 👈
 # 🎮 Tic Tac Toe – Vanilla JavaScript
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo‑Click%20Here-brightgreen?style=for-the-badge)](tic-tac-toe-vanilla-js-gagan.netlify.app)
