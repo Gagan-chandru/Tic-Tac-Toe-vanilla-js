@@ -24,3 +24,9 @@ A classic Tic Tac Toe game built from scratch using **HTML**, **CSS**, and **pur
 - **JavaScript (ES6+)** — for logic: turns, win/draw checks, event handling, DOM updates  
 
 ---
+
+## ⚠️ Known Issues / Limitations
+
+- The game currently **works well on larger screens** (desktops, laptops), but is **not responsive** on smaller viewports (tablets, phones).  
+- Some UI elements (board cells, fonts, buttons) may overflow or become too small on mobile devices.  
+- Lack of viewport meta tag or media queries may cause layout issues on narrower screens. 
